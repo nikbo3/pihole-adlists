@@ -1,21 +1,3 @@
-#! Title: 1Hosts (Pro)
-#! Last modified: 2022-11-02T15:42:36.295Z
-#! ..............
-#!  |URL: https://github.com/badmojr/1Hosts
-#!  |Count: 110,830 rules!
-#!  |Size: 2.31 MB
-#!  |
-#!  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
-#!  |Licence: MPLv2,
-#!  | https://www.mozilla.org/en-US/MPL/2.0/
-#!  /
-#! ( Please report any issues related to this file.
-#!  \......................................
-#!  | GH: github.com/badmojr/1Hosts/issues
-#!  | e-mail: badmojr@gmail.com
-#!  | Telegram: t.me/badmojr
-#!  \____________________
-
 events.data.microsoft.com
 doubleclick.net
 google-analytics.com
